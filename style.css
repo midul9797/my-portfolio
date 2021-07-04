@@ -1,7 +1,7 @@
 body 
 {
     margin: 0;
-    background-color: black;
+    background-color: #262626;
     color: white;
 }
 
@@ -13,7 +13,7 @@ h1
 
 h2 
 {
-    font-size: 40px;
+    font-size: 30px;
 }
 .flexible-container
 {
@@ -37,7 +37,7 @@ h2
     color: cyan;
 }
 
-.half-width img 
+.first-img
 {
     width: 70%;
     padding-top: 50px;
@@ -54,7 +54,12 @@ p
     font-weight: 700;
     padding: 15px 40px;
     margin-top: 30px;
-    border-radius: 10px;
+    border-radius: 7px;
     background-image: linear-gradient(cyan, rgb(34, 43, 43));
     
+}
+.second-img 
+{
+    width: 80%;
+    padding-left: 0;
 }
