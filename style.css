@@ -63,3 +63,50 @@ p
     width: 80%;
     padding-left: 0;
 }
+.second-banner 
+{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.exp-title 
+{
+    text-align: center;
+    color: cyan;
+}
+
+.experiences-area 
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.exp-name 
+{
+    font-size: 2.5em;
+}
+
+.experiences 
+{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(21, 133, 133);
+    border-left: 10px solid ;
+    border-image: linear-gradient(cyan, rgb(34, 43, 43));
+    border-image-slice: 1;
+}
+
+.first-experience p
+{
+    padding: 3px;
+}
+
+footer 
+{
+    text-align: center;
+}
