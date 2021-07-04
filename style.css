@@ -3,6 +3,7 @@ body
     margin: 0;
     background-color: #021e22;
     color: white;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1 
@@ -35,6 +36,35 @@ h2
 .cyan-color
 {
     color: cyan;
+}
+.r 
+{
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+.a1 
+{
+    font-family: 'Abril Fatface' , cursive;
+}
+
+.h 
+{
+    font-family: 'Tourney', cursive;
+}
+.m 
+{
+    
+    font-family: 'Zen Loop', cursive;
+}
+
+.a2 
+{
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+.n 
+{
+    font-family: 'Indie Flower', cursive;
 }
 
 .first-img
@@ -74,6 +104,7 @@ p
 {
     text-align: center;
     color: cyan;
+    font-family: 'Tourney', cursive;
 }
 
 .experiences-area 
